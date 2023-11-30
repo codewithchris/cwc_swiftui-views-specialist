@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5A16A0242B18C73300860DD9 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 5A16A0232B18C73300860DD9 /* LICENSE */; };
 		5A9ED1302B18B772006F2F5C /* _1_The_Login_ScreenApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A9ED12F2B18B772006F2F5C /* _1_The_Login_ScreenApp.swift */; };
 		5A9ED1322B18B772006F2F5C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A9ED1312B18B772006F2F5C /* ContentView.swift */; };
 		5A9ED1342B18B773006F2F5C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A9ED1332B18B773006F2F5C /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5A16A0232B18C73300860DD9 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = LICENSE; path = ../../../LICENSE; sourceTree = "<group>"; };
 		5A9ED12C2B18B772006F2F5C /* 01-The Login Screen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "01-The Login Screen.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5A9ED12F2B18B772006F2F5C /* _1_The_Login_ScreenApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = _1_The_Login_ScreenApp.swift; sourceTree = "<group>"; };
 		5A9ED1312B18B772006F2F5C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 				5A9ED12F2B18B772006F2F5C /* _1_The_Login_ScreenApp.swift */,
 				5A9ED1312B18B772006F2F5C /* ContentView.swift */,
 				5A9ED1332B18B773006F2F5C /* Assets.xcassets */,
+				5A16A0232B18C73300860DD9 /* LICENSE */,
 				5A9ED1352B18B773006F2F5C /* Preview Content */,
 			);
 			path = "01-The Login Screen";
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5A16A0242B18C73300860DD9 /* LICENSE in Resources */,
 				5A9ED1372B18B773006F2F5C /* Preview Assets.xcassets in Resources */,
 				5A9ED1342B18B773006F2F5C /* Assets.xcassets in Resources */,
 			);

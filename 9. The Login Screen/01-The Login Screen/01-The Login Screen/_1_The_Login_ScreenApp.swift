@@ -2,7 +2,10 @@
 //  _1_The_Login_ScreenApp.swift
 //  01-The Login Screen
 //
-//  Created by Joash Tubaga on 11/30/23.
+//  See LICENSE folder for this project's licensing information.
+//
+//  Created by CodeWithChris (https://codewithchris.com)
+//  Copyright © 2023 CodeWithChris. All rights reserved
 //
 
 import SwiftUI
